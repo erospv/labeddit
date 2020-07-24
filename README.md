@@ -78,6 +78,6 @@ Para instalar as dependências e iniciar o projeto
 
 ## Licença
 
-The [MIT License](https://github.com/erospv/labeddit/blob/master/LICENSE.md) (MIT)
+The [MIT License](https://github.com/erospv/labeddit/blob/master/LICENSE) (MIT)
 
 Copyright :copyright: 2020 - labeddit
