@@ -1,40 +1,83 @@
-## LabEddit9
+# LabEddit9
+> Status do Projeto: Concluido :heavy_check_mark:
 
-#### Alexandre Gessone
+## Sobre
+Projeto de front-end realizado durante o curso de desenvolvedor web full stack da Labenu.
+A proposta do projeto foi desenvolver uma aplicação que simule uma rede social no estilo do reddit.
 
-#### Eros Pinder Valente
+## Tecnologias utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-#### Renan Takeshi
+- [ReactJS](https://reactjs.org/)
 
-## O que funciona
+### Dependências e Bibliotecas
 
-- Login
-- Cadastro
-- Criar postagem
-- Criar comentario
-- Votar em postagens e comentarios
+- [Material-UI](https://material-ui.com/pt/)
+- [React Router DOM](https://github.com/ReactTraining/react-router#readme)
+- [react-share](https://www.npmjs.com/package/react-share)
+- [Styled Components](https://styled-components.com/)
 
-#### Desafios
 
-- Responsividade
-- Logout
-- Compartilhar
-- Loading
-- Ordenar postagens e comentários
-- Internacionalização
-- Pesquisa
+## Funcionalidades
 
-## O que não funciona
+- [X] Login/Logout
+- [X] Cadastro
+- [X] Criar postagem
+- [X] Criar comentario
+- [X] Votar em postagens e comentarios
+- [X] Responsividade
+- [X] Compartilhar
+- [X] Ordenar postagens e comentários
+- [X] Internacionalização
+- [X] Pesquisar por post
 
-- ¯\\\_(ツ)\_/¯
+## Deploy da aplicação :dash:
+> [http://labeddit9.surge.sh/](http://labeddit9.surge.sh/)
 
-## Link Surge
+## Rodando o projeto
 
-[http://labeddit9.surge.sh/](http://labeddit9.surge.sh/)
+Para copiar o projeto, utilize os comandos:
 
-## Imagens
+```bash
+  # Clonar o repositório
+  ❯ git clone https://github.com/erospv/labeddit.git
 
-![login](https://user-images.githubusercontent.com/10583511/87234452-7221e480-c3a7-11ea-864c-3e925c99ee75.png)
-![signup](https://user-images.githubusercontent.com/10583511/87234453-73eba800-c3a7-11ea-946c-ecd4a432f217.png)
-![feed](https://user-images.githubusercontent.com/10583511/87251789-b0211600-c444-11ea-9101-81c9438e1563.png)
-![post](https://user-images.githubusercontent.com/10583511/87234456-76e69880-c3a7-11ea-9d05-ffc4921eae27.png)
+  # Entrar no diretório
+  ❯ cd labeddit/app
+```
+
+Para instalar as dependências e iniciar o projeto
+
+```bash
+  # Instalar as dependências
+  ❯ npm install
+
+  # Iniciar o projeto
+  ❯ npm start
+```
+<br>
+
+## Canais de comunicação
+
+**Eros Pinder Valente**: *Desenvolvedor web full-stack*
+
+- [Linkedin](https://www.linkedin.com/in/erospv/)
+- [Github](https://github.com/erospv)
+- [Email](eros.pv@gmail.com)
+
+<br>
+
+## Desenvolvedores/Contribuintes :octocat:
+
+<div align="center">
+
+| [<img src="https://avatars3.githubusercontent.com/u/63556708?s=400&u=4fab3b3a497745ffdacb71550fa32b7d98314058&v=4" width=115><br><sub>Alexandre Gessone</sub>](https://github.com/AlexandreGessone) |  [<img src="https://avatars3.githubusercontent.com/u/10583511?s=400&u=e36b1a1945ee7d6811bfda30998a8e4199dae440&v=4" width=115><br><sub>Renan Takeshi</sub>](https://github.com/rtakeshi13)
+| :---: | :---: |
+
+</div>
+
+## Licença
+
+The [MIT License](https://github.com/erospv/labeddit/blob/master/LICENSE.md) (MIT)
+
+Copyright :copyright: 2020 - labeddit
