@@ -34,6 +34,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Deploy da aplicação :dash:
 > [http://labeddit9.surge.sh/](http://labeddit9.surge.sh/)
 
+<br>
+
 ## Rodando o projeto
 
 Para copiar o projeto, utilize os comandos:
