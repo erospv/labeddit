@@ -4,6 +4,8 @@
 ## Sobre
 Projeto de front-end realizado durante o curso de desenvolvedor web full stack da Labenu.
 A proposta do projeto foi desenvolver uma aplicação que simule uma rede social no estilo do reddit.
+<br>
+Aplicação possui integração com API criada pela Labenu. [Documentação da API](https://documenter.getpostman.com/view/7549981/SW7T9XRj?version=latest)
 
 ## Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
